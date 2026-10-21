@@ -12,7 +12,7 @@
 
 Hệ thống **EduHub** hỗ trợ quản lý câu lạc bộ (CLB) và sự kiện sinh viên. Dưới đây là các User Story với tiêu chí nghiệm thu (Acceptance Criteria) theo định dạng chuẩn **Given - When - Then**, bao quát đầy đủ 3 nhóm tác nhân (Actors):
 
-### 🎓 Nhóm 1: Tác nhân Sinh viên (Member)
+###  Nhóm 1: Tác nhân Sinh viên (Member)
 
 * **US-01: Sinh viên nộp đơn rời câu lạc bộ**
   * *User Story:* Là một thành viên đang tham gia CLB, tôi muốn nộp yêu cầu rời CLB để ngừng tham gia các hoạt động khi không còn phù hợp.
@@ -34,7 +34,7 @@ Hệ thống **EduHub** hỗ trợ quản lý câu lạc bộ (CLB) và sự ki�
 
 ---
 
-### 🧑‍💼 Nhóm 2: Tác nhân Ban Chủ Nhiệm CLB
+### Nhóm 2: Tác nhân Ban Chủ Nhiệm CLB
 
 * **US-04: Ban CLB duyệt phiếu đăng ký sự kiện của sinh viên**
   * *User Story:* Là ban chủ nhiệm CLB, tôi muốn duyệt các phiếu đăng ký `Pending` để xác nhận danh sách sinh viên tham dự chính thức.
@@ -56,7 +56,7 @@ Hệ thống **EduHub** hỗ trợ quản lý câu lạc bộ (CLB) và sự ki�
 
 ---
 
-### 🛠️ Nhóm 3: Tác nhân Quản Trị Viên (Admin)
+###  Nhóm 3: Tác nhân Quản Trị Viên (Admin)
 
 * **US-07: Quản trị viên ngừng tư cách hoạt động của thành viên**
   * *User Story:* Là quản trị viên hệ thống, tôi muốn ngừng kích hoạt thành viên vi phạm nội quy để đảm bảo kỷ luật cho các hoạt động của câu lạc bộ.
